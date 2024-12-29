@@ -5,12 +5,20 @@
 1. **Goal Tracker (Public & Private)**
 
    - **Sub-Goals**:
+
      - Break down goals into actionable tasks.
      - Ensure tasks follow the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound).
      - Define targets, set reminder frequencies, and establish clear metrics for tracking progress.
 
+   - **Habits tracking**
+
 2. **Project Tracker**
+
    - Centralized hub for managing and monitoring projects.
+
+3. Focus Log - Deep Work
+
+4. Health trackers. Weight, sleep & steps.
 
 ---
 
